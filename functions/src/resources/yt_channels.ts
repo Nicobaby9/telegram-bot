@@ -40,6 +40,7 @@ export const channels: Channel[] = [
   },
   { name: "BuildWith Angga", url: "https://www.youtube.com/c/BuildWithAngga" },
   { name: "Codepolitan", url: "https://www.youtube.com/c/Codepolitan" },
+  { name: "Parsinta", url: "https://www.youtube.com/channel/UCPlEbdgWOXkKEEl7dhBxs4Q"},
 ];
 
 export const ytChannelsMessage = (): string => {
